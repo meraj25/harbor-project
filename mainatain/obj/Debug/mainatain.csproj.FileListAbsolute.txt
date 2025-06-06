@@ -1,0 +1,10 @@
+C:\Users\Meraj Devapriya\source\repos\mainatain\mainatain\bin\Debug\mainatain.exe.config
+C:\Users\Meraj Devapriya\source\repos\mainatain\mainatain\bin\Debug\mainatain.exe
+C:\Users\Meraj Devapriya\source\repos\mainatain\mainatain\bin\Debug\mainatain.pdb
+C:\Users\Meraj Devapriya\source\repos\mainatain\mainatain\obj\Debug\mainatain.csproj.AssemblyReference.cache
+C:\Users\Meraj Devapriya\source\repos\mainatain\mainatain\obj\Debug\mainatain.Form1.resources
+C:\Users\Meraj Devapriya\source\repos\mainatain\mainatain\obj\Debug\mainatain.Properties.Resources.resources
+C:\Users\Meraj Devapriya\source\repos\mainatain\mainatain\obj\Debug\mainatain.csproj.GenerateResource.cache
+C:\Users\Meraj Devapriya\source\repos\mainatain\mainatain\obj\Debug\mainatain.csproj.CoreCompileInputs.cache
+C:\Users\Meraj Devapriya\source\repos\mainatain\mainatain\obj\Debug\mainatain.exe
+C:\Users\Meraj Devapriya\source\repos\mainatain\mainatain\obj\Debug\mainatain.pdb

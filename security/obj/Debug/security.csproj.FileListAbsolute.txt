@@ -1,0 +1,10 @@
+C:\Users\mbdba\Desktop\New folder (4)\security\bin\Debug\security.exe.config
+C:\Users\mbdba\Desktop\New folder (4)\security\bin\Debug\security.exe
+C:\Users\mbdba\Desktop\New folder (4)\security\bin\Debug\security.pdb
+C:\Users\mbdba\Desktop\New folder (4)\security\obj\Debug\security.csproj.AssemblyReference.cache
+C:\Users\mbdba\Desktop\New folder (4)\security\obj\Debug\security.Form1.resources
+C:\Users\mbdba\Desktop\New folder (4)\security\obj\Debug\security.Properties.Resources.resources
+C:\Users\mbdba\Desktop\New folder (4)\security\obj\Debug\security.csproj.GenerateResource.cache
+C:\Users\mbdba\Desktop\New folder (4)\security\obj\Debug\security.csproj.CoreCompileInputs.cache
+C:\Users\mbdba\Desktop\New folder (4)\security\obj\Debug\security.exe
+C:\Users\mbdba\Desktop\New folder (4)\security\obj\Debug\security.pdb
